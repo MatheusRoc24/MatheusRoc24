@@ -3,13 +3,12 @@
   <h1>👋 Olá, eu sou o Matheus!</h1>
   <p>💻 Desenvolvedor, estudante de Arquitetura de Computadores e apaixonado por tecnologia.</p>
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-
   ---
 
   ### 🚀 Tecnologias que uso
+
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="120"/>
 
   ---
 
