@@ -38,14 +38,6 @@
 
   ---
 
-  <h2>📊 Minhas Estatísticas no GitHub</h2>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MatheusRoc24&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" alt="MatheusRoc24 GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRoc24&layout=compact&theme=monokai" alt="Top Languages" />
-  </p>
-
-  ---
-
   <h2>⭐ Projetos em Destaque</h2>
   <p>Em breve, confira aqui alguns dos meus projetos mais interessantes!</p>
   ---
