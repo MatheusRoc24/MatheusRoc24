@@ -16,8 +16,7 @@
 
   <h4>Linguagens</h4>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50px" title="C++"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50px" title="Python"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Java/Java-original.svg" alt="Java" width="50px" title="Java"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px" title="JavaScript"/>
   </p>
 
