@@ -16,8 +16,9 @@
 
   <h4>Linguagens</h4>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Java/Java-original.svg" alt="Java" width="50px" title="Java"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px" title="JavaScript"/>
+   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px" title="JavaScript"/>
   </p>
 
   <h4>Frameworks & Runtimes</h4>
